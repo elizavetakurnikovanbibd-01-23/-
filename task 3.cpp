@@ -1,6 +1,6 @@
 int main() 
 { 
-    int x,y; 
+    int x, y; 
     cout << "enter x: "; 
     cin >> x; 
     if (x <= -1) 
