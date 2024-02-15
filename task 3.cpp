@@ -14,11 +14,6 @@ int main()
     if (x >= 1) 
     { 
         cout << "y = " << -1; 
-    } 
-    else  
-    { 
-        x == y; 
-        cout << "y = " << y; 
-    } 
+    }
     return 0; 
 }
